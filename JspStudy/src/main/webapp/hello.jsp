@@ -15,5 +15,6 @@
    System.out.println("str=>"+str);//콘솔
    out.println("<h1>"+"str=>"+str+"</h1>");//웹에출력
  %>
+ <%=str%>
 </body>
 </html>
